@@ -1,1 +1,1 @@
-require('./lib/spider.js');
+require('./lib/checker.js');
