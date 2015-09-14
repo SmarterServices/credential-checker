@@ -40,7 +40,7 @@ var config = {};
 ];
 
 config.start =  __dirname + '/../';
-config.exclude_dirs = ['.idea','node_modules', 'test', 'lib','config'];
+config.exclude_dirs = ['.idea','.git','node_modules', 'test', 'lib','config'];
 
 module.exports = config;
 
